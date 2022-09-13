@@ -4,9 +4,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=void-hr&label=Profile%20views&color=0e75b6&style=flat" alt="void-hr" /> </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=void-hr)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=void-hr&column=7&margin-w=15">
+</p>
 
- 
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on myself [404](🐱‍👤)
