@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=void-hr&column=7&margin-w=15">
+<img src="https://github-profile-trophy.vercel.app/?username=void-hr&column=7">
 </p>
 
 
