@@ -1,4 +1,4 @@
-# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Void
+# Hello, I'm Void
 
 [![](https://img.shields.io/badge/-@voidhr-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)]([https://twitter.com/](https://twitter.com/gaura_void))
 [![](https://img.shields.io/badge/-@voidhr-%23181717?style=flat-square&logo=github)](https://github.com/void-hr)
