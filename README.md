@@ -4,6 +4,8 @@
 [![](https://img.shields.io/badge/-@voidhr-%23181717?style=flat-square&logo=github)](https://github.com/void-hr)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=portfolio&url=https%3A%2F%2Fxlbd.me)](https://pure-folio.vercel.app)
 
+[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--O3hycoaa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif)]()
+
 🐻 front-end development!
 
 :computer: Self-taught full stack developer.
