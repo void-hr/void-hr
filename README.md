@@ -10,7 +10,7 @@
 
 :computer: Self-taught full stack developer.
 
-🖖 React.js fanatics | 🍎 swift learner | ☕️ Chai Chai Chai | 
+🖖 React.js fanatics | 🍎 Go | ☕️ Chai Chai Chai | 
 
 :writing_hand:  Creating ........  
 
